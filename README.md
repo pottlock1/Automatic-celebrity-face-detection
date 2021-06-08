@@ -20,3 +20,4 @@ python app.py
 * Then click on 'Make embeddings' button to make the embeddings of copped images
 * Then click on train to train a keras model
 * The trained model will be saved in the 'train_results' folder in .h5 format
+* Click on 'Browse image' button to select an image from local and the result will be shown in the same window
