@@ -1,5 +1,5 @@
 # Automatic-celebrity-face-detection
-Downloads and trains a model to detect the faces of a given celebrity...
+Downloads and trains a model to detect the faces of a given celebrity on some clicks
 
 ### How to run...
 * Make and activate an anaconda environment
